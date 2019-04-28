@@ -23,4 +23,6 @@ training.
 
 3.Type jupyter notebook
 
-4.Open the file that you want to open.
+4.Open the file that you want to read.
+
+5.To run the program line by line press shift+Enter.
