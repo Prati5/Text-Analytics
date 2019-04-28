@@ -15,7 +15,7 @@ recognizes patterns in the data, the cross-validation data is used to ensure bet
 used to train the machine, and the test data is used to see how well the machine can predict new answers based on its 
 training.
 
-How to Run the .ipynb file:
+# How to Run the .ipynb file:
 
 1.Open the terminal (Ctrl + Alt + T).
 
