@@ -17,9 +17,9 @@ training.
 
 How to Run the .ipynb file:
 
-1. Open the terminal (Ctrl + Alt + T).
+1.Open the terminal (Ctrl + Alt + T).
 
-2. Navigate to the folder where your .ipynb file saved.
+2.Navigate to the folder where your .ipynb file saved.
 
 3.Type jupyter notebook
 
