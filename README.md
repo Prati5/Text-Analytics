@@ -14,8 +14,13 @@ Text classification can be done by using the set of training data. The training 
 recognizes patterns in the data, the cross-validation data is used to ensure better accuracy and efficiency of the algorithm
 used to train the machine, and the test data is used to see how well the machine can predict new answers based on its 
 training.
+
 How to Run the .ipynb file:
-1. Open the terminal (Ctrl + Alt + T)
+
+1. Open the terminal (Ctrl + Alt + T).
+
 2. Navigate to the folder where your .ipynb file saved.
+
 3.Type jupyter notebook
+
 4.Open the file that you want to open.
